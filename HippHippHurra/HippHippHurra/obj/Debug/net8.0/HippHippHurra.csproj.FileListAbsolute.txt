@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\bin\Debug\net8.0\HippHippHurra.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\bin\Debug\net8.0\HippHippHurra.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\bin\Debug\net8.0\HippHippHurra.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\bin\Debug\net8.0\HippHippHurra.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\bin\Debug\net8.0\HippHippHurra.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\refint\HippHippHurra.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\HippHippHurra.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\HippHippHurra\HippHippHurra\obj\Debug\net8.0\ref\HippHippHurra.dll
